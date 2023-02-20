@@ -24,7 +24,7 @@ PeanutGambleClassic:
 
 **[EXILED](https://github.com/galaxy119/EXILED) must be installed for this to work.**
 
-Place the "PeeanutGambleClassic.dll" file in your Plugins folder.
+Place the "PeanutGambleClassic.dll" file in your Plugins folder.
 
 # Item IDs for Whitelist
 ```yaml
