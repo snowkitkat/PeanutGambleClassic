@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RFyw667DEHh9fiDvwNENGBETUNzkawlrRODljYFsHwfy2VzrRGRBjyzV62P4dvCavlgO3DKF6CVf02FEhFcARA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jayce\\OneDrive\\Desktop\\PeanutGambleClassic\\PeanutGambleClassic\\PluginTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayce\\.nuget\\packages\\exiled\\6.0.0-beta.19\\exiled.6.0.0-beta.19.nupkg.sha512",
+    "C:\\Users\\jayce\\.nuget\\packages\\lib.harmony\\2.0.4\\lib.harmony.2.0.4.nupkg.sha512",
+    "C:\\Users\\jayce\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\jayce\\.nuget\\packages\\yamldotnet\\9.1.4\\yamldotnet.9.1.4.nupkg.sha512"
+  ],
+  "logs": []
+}
