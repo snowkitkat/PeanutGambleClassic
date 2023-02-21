@@ -20,3 +20,14 @@ C:\Users\snow\Desktop\PeanutGambleClassic-main\PeanutGambleClassic\obj\Debug\Pea
 C:\Users\snow\Desktop\PeanutGambleClassic-main\PeanutGambleClassic\bin\Debug\PeanutGambleClassic.dll
 C:\Users\snow\Desktop\PeanutGambleClassic-main\PeanutGambleClassic\bin\Debug\PeanutGambleClassic.pdb
 C:\Users\snow\Desktop\PeanutGambleClassic-main\PeanutGambleClassic\bin\Debug\PeanutGambleClassic.xml
+C:\Users\snow\Desktop\Plugins\PeanutGambleClassic-main\PeanutGambleClassic\bin\Debug\PeanutGambleClassic.dll
+C:\Users\snow\Desktop\Plugins\PeanutGambleClassic-main\PeanutGambleClassic\bin\Debug\PeanutGambleClassic.pdb
+C:\Users\snow\Desktop\Plugins\PeanutGambleClassic-main\PeanutGambleClassic\bin\Debug\PeanutGambleClassic.xml
+C:\Users\snow\Desktop\Plugins\PeanutGambleClassic-main\PeanutGambleClassic\obj\Debug\PluginTemplate.csproj.AssemblyReference.cache
+C:\Users\snow\Desktop\Plugins\PeanutGambleClassic-main\PeanutGambleClassic\obj\Debug\PluginTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snow\Desktop\Plugins\PeanutGambleClassic-main\PeanutGambleClassic\obj\Debug\PluginTemplate.AssemblyInfoInputs.cache
+C:\Users\snow\Desktop\Plugins\PeanutGambleClassic-main\PeanutGambleClassic\obj\Debug\PluginTemplate.AssemblyInfo.cs
+C:\Users\snow\Desktop\Plugins\PeanutGambleClassic-main\PeanutGambleClassic\obj\Debug\PluginTemplate.csproj.CoreCompileInputs.cache
+C:\Users\snow\Desktop\Plugins\PeanutGambleClassic-main\PeanutGambleClassic\obj\Debug\PeanutGambleClassic.dll
+C:\Users\snow\Desktop\Plugins\PeanutGambleClassic-main\PeanutGambleClassic\obj\Debug\PeanutGambleClassic.xml
+C:\Users\snow\Desktop\Plugins\PeanutGambleClassic-main\PeanutGambleClassic\obj\Debug\PeanutGambleClassic.pdb
