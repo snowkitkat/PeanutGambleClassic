@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PeanutGambleClassic</name>
+    </assembly>
+    <members>
+        <member name="T:PeanutGambleClassic.Config">
+            <inheritdoc />
+        </member>
+        <member name="P:PeanutGambleClassic.Config.IsEnabled">
+            <inheritdoc/>
+        </member>
+        <member name="P:PeanutGambleClassic.Config.Debug">
+            <summary>
+            Gets or sets a value indicating whether debug messages should be shown in the console.
+            </summary>
+        </member>
+        <member name="P:PeanutGambleClassic.Config.Whitelist">
+            <summary>
+            Whitelist for allowed items to spawn.
+            </summary>
+        </member>
+        <member name="T:PeanutGambleClassic.EventHandlers">
+            <summary>
+            General event handlers.
+            </summary>
+        </member>
+        <member name="M:PeanutGambleClassic.EventHandlers.#ctor(PeanutGambleClassic.Plugin)">
+            <summary>
+            Initializes a new instance of the <see cref="T:PeanutGambleClassic.EventHandlers"/> class.
+            </summary>
+            <param name="plugin">The <see cref="T:Exiled.API.Features.Plugin`1"/> class reference.</param>
+        </member>
+        <member name="T:PeanutGambleClassic.Plugin">
+            <inheritdoc />
+        </member>
+        <member name="P:PeanutGambleClassic.Plugin.Author">
+            <inheritdoc/>
+        </member>
+        <member name="P:PeanutGambleClassic.Plugin.Name">
+            <inheritdoc/>
+        </member>
+        <member name="P:PeanutGambleClassic.Plugin.Prefix">
+            <inheritdoc/>
+        </member>
+        <member name="P:PeanutGambleClassic.Plugin.Version">
+            <inheritdoc/>
+        </member>
+        <member name="P:PeanutGambleClassic.Plugin.RequiredExiledVersion">
+            <inheritdoc/>
+        </member>
+        <member name="M:PeanutGambleClassic.Plugin.OnEnabled">
+            <inheritdoc/>
+        </member>
+        <member name="M:PeanutGambleClassic.Plugin.OnDisabled">
+            <inheritdoc/>
+        </member>
+    </members>
+</doc>
