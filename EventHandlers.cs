@@ -23,10 +23,15 @@ namespace PeanutGambleClassic
         {
             if (ev.Player.CurrentRoom.Type == Exiled.API.Enums.RoomType.Lcz173 && UnityEngine.Vector3.Distance(ev.Player.CurrentRoom.GameObject.transform.InverseTransformPoint(ev.Player.Position), new UnityEngine.Vector3(17.0f, 12.4f, 8.0f)) <= 6.6f)
             {
+                // Makes it so when the item is dropped, it spawns a random one ranging from the -1 to 52 and what is valid in the configs.
                 ev.IsAllowed = false;
                 ev.Item.Destroy();
                 int[] arr = plugin.Config.Whitelist;
-                Item item = Item.Create((ItemType)arr[UnityEngine.Random.Range(0, arr.Length)]);
+                ItemType type = (ItemType)arr[UnityEngine.Random.Range(0, arr.Length)];
+                // If it is none, exits the current function, causing no item to spawn. Fixes -1 error spam in console.
+                if (type == ItemType.None)
+                    return;
+                Item item = Item.Create(type);
                 item.CreatePickup(ev.Player.Position);
             }
 

@@ -220,11 +220,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\snow\\Desktop\\PeanutGambleClassic-main\\PeanutGambleClassic\\PluginTemplate.csproj",
+      "projectUniqueName": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic-main\\PeanutGambleClassic\\PluginTemplate.csproj",
       "projectName": "PeanutGambleClassic",
-      "projectPath": "C:\\Users\\snow\\Desktop\\PeanutGambleClassic-main\\PeanutGambleClassic\\PluginTemplate.csproj",
+      "projectPath": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic-main\\PeanutGambleClassic\\PluginTemplate.csproj",
       "packagesPath": "C:\\Users\\snow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\snow\\Desktop\\PeanutGambleClassic-main\\PeanutGambleClassic\\obj\\",
+      "outputPath": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic-main\\PeanutGambleClassic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

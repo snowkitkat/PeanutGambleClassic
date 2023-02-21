@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TehdQSr8dzD0zMif/L45Y5+3hFvs5nqSbhDg3o6jV79F/bPwE4bk1HEs7tWC8/CNXHIMv8swEbBLgkYu1fVHZg==",
+  "dgSpecHash": "Q/3oxbXxu2dwfZTSSYtCHtOfvr1JnJrSvSSoa+j7wM4EgasbKPHezZlEOCKgCkTJQnfNpHd7+UCiFNgnIfjdVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\snow\\Desktop\\PeanutGambleClassic-main\\PeanutGambleClassic\\PluginTemplate.csproj",
+  "projectFilePath": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic-main\\PeanutGambleClassic\\PluginTemplate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\snow\\.nuget\\packages\\exiled\\6.0.0-beta.19\\exiled.6.0.0-beta.19.nupkg.sha512",
     "C:\\Users\\snow\\.nuget\\packages\\lib.harmony\\2.0.4\\lib.harmony.2.0.4.nupkg.sha512",
