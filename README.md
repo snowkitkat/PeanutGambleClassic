@@ -2,7 +2,7 @@
 Brings back the old SCP-173 room gambling as seen in pre-Parabellum.
 
 # Features
-- Detects if the user is in 173 and replaces their item with a whitelisted item.
+- Detects if the user is in 173 containment and replaces their item they drop with a whitelisted item.
 
 # Default config:
 ```yaml
