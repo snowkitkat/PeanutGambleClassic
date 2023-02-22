@@ -79,7 +79,5 @@ Place the "PeanutGambleClassic.dll" file in your Plugins folder.
     ParticleDisruptor = 47,
     GunCom45 = 48,
     SCP1576 = 49,
-    Coal = 50,
-    Scp2536_2 = 51,
-    Jailbird = 52
+    Jailbird = 50
 ```
