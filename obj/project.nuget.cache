@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Q/3oxbXxu2dwfZTSSYtCHtOfvr1JnJrSvSSoa+j7wM4EgasbKPHezZlEOCKgCkTJQnfNpHd7+UCiFNgnIfjdVQ==",
+  "dgSpecHash": "tHjKi2TalrFSk+YvOpT+nUr2x+BEGobujG0C9AlDnal/cCztIW0rde5UNapU8t3oDmQ5+YNiQi2vTBNIdn0ljw==",
   "success": true,
   "projectFilePath": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic-main\\PeanutGambleClassic\\PluginTemplate.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\snow\\.nuget\\packages\\exiled\\6.0.0-beta.19\\exiled.6.0.0-beta.19.nupkg.sha512",
+    "C:\\Users\\snow\\.nuget\\packages\\exiled\\6.0.0-beta.26\\exiled.6.0.0-beta.26.nupkg.sha512",
     "C:\\Users\\snow\\.nuget\\packages\\lib.harmony\\2.0.4\\lib.harmony.2.0.4.nupkg.sha512",
     "C:\\Users\\snow\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
     "C:\\Users\\snow\\.nuget\\packages\\yamldotnet\\9.1.4\\yamldotnet.9.1.4.nupkg.sha512"

@@ -23,7 +23,7 @@ namespace PeanutGambleClassic
         {
             if (ev.Player.CurrentRoom.Type == Exiled.API.Enums.RoomType.Lcz173 && UnityEngine.Vector3.Distance(ev.Player.CurrentRoom.GameObject.transform.InverseTransformPoint(ev.Player.Position), new UnityEngine.Vector3(17.0f, 12.4f, 8.0f)) <= 6.6f)
             {
-                // Makes it so when the item is dropped, it spawns a random one ranging from the -1 to 52 and what is valid in the configs.
+                // Makes it so when the item is dropped, it spawns a random one ranging from the -1 to 50 and what is valid in the configs.
                 ev.IsAllowed = false;
                 ev.Item.Destroy();
                 int[] arr = plugin.Config.Whitelist;

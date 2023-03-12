@@ -3,6 +3,7 @@ namespace PeanutGambleClassic
     using System;
     using Exiled.API.Features;
     using PlayerHandlers = Exiled.Events.Handlers.Player;
+    using Exiled.Events.Handlers;
 
     /// <inheritdoc />
     public class Plugin : Plugin<Config>
@@ -19,7 +20,7 @@ namespace PeanutGambleClassic
         public override string Prefix { get; } = "PeanutGambleClassic";
 
         /// <inheritdoc/>
-        public override Version Version { get; } = new Version(1, 2, 0);
+        public override Version Version { get; } = new Version(1, 2, 1);
 
         /// <inheritdoc/>
         public override Version RequiredExiledVersion { get; } = new Version(5, 0, 0);

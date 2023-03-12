@@ -46,7 +46,7 @@
           "dependencies": {
             "EXILED": {
               "target": "Package",
-              "version": "[6.0.0-beta.19, )"
+              "version": "[6.0.0-beta.26, )"
             },
             "Lib.Harmony": {
               "target": "Package",
