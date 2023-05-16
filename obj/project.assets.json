@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETFramework,Version=v4.8.1": {
-      "EXILED/6.0.0-beta.26": {
+      "EXILED/7.0.0-rc.2-1": {
         "type": "package",
         "compile": {
           "lib/net48/Assembly-CSharp-Publicized.dll": {},
@@ -32,7 +32,8 @@
             "related": ".xml"
           },
           "lib/net48/NorthwoodLib.dll": {},
-          "lib/net48/PluginAPI.dll": {}
+          "lib/net48/PluginAPI.dll": {},
+          "lib/net48/YamlDotNet.dll": {}
         },
         "runtime": {
           "lib/net48/Assembly-CSharp-Publicized.dll": {},
@@ -62,7 +63,8 @@
             "related": ".xml"
           },
           "lib/net48/NorthwoodLib.dll": {},
-          "lib/net48/PluginAPI.dll": {}
+          "lib/net48/PluginAPI.dll": {},
+          "lib/net48/YamlDotNet.dll": {}
         }
       },
       "Lib.Harmony/2.0.4": {
@@ -97,14 +99,14 @@
     }
   },
   "libraries": {
-    "EXILED/6.0.0-beta.26": {
-      "sha512": "Ubwefe7ikPAbeDZyVs/DcCm9t5kMOZ8CfyUYBf+SiyN3J/2kSXtSzVAToFj6EdzNGdBFPKL7dV/mG8hoYbYTow==",
+    "EXILED/7.0.0-rc.2-1": {
+      "sha512": "8QzH5o/8kSsoBnT43LDKNwNT7KRRXM686JsbMa3C2rDpX2k69VPtdkslI6k2RAU3O/9pGs3pm9neoXnimgxvQA==",
       "type": "package",
-      "path": "exiled/6.0.0-beta.26",
+      "path": "exiled/7.0.0-rc.2-1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "exiled.6.0.0-beta.26.nupkg.sha512",
+        "exiled.7.0.0-rc.2-1.nupkg.sha512",
         "exiled.nuspec",
         "images/Exiled_Icon.jpg",
         "lib/net48/Assembly-CSharp-Publicized.dll",
@@ -126,7 +128,8 @@
         "lib/net48/Exiled.Updater.dll",
         "lib/net48/Exiled.Updater.xml",
         "lib/net48/NorthwoodLib.dll",
-        "lib/net48/PluginAPI.dll"
+        "lib/net48/PluginAPI.dll",
+        "lib/net48/YamlDotNet.dll"
       ]
     },
     "Lib.Harmony/2.0.4": {
@@ -207,7 +210,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.8.1": [
-      "EXILED >= 6.0.0-beta.26",
+      "EXILED >= 7.0.0-rc.2-1",
       "Lib.Harmony >= 2.0.4",
       "StyleCop.Analyzers >= 1.1.118",
       "YamlDotNet >= 9.1.4"
@@ -220,11 +223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic-main\\PeanutGambleClassic\\PluginTemplate.csproj",
+      "projectUniqueName": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic\\PluginTemplate.csproj",
       "projectName": "PeanutGambleClassic",
-      "projectPath": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic-main\\PeanutGambleClassic\\PluginTemplate.csproj",
+      "projectPath": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic\\PluginTemplate.csproj",
       "packagesPath": "C:\\Users\\snow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic-main\\PeanutGambleClassic\\obj\\",
+      "outputPath": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -259,7 +262,7 @@
         "dependencies": {
           "EXILED": {
             "target": "Package",
-            "version": "[6.0.0-beta.26, )"
+            "version": "[7.0.0-rc.2-1, )"
           },
           "Lib.Harmony": {
             "target": "Package",
