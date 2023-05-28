@@ -217,23 +217,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\snow\\.nuget\\packages\\": {},
+    "C:\\Users\\jayce\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic\\PluginTemplate.csproj",
+      "projectUniqueName": "C:\\Users\\jayce\\RiderProjects\\PeanutGambleClassic\\PluginTemplate.csproj",
       "projectName": "PeanutGambleClassic",
-      "projectPath": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic\\PluginTemplate.csproj",
-      "packagesPath": "C:\\Users\\snow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic\\obj\\",
+      "projectPath": "C:\\Users\\jayce\\RiderProjects\\PeanutGambleClassic\\PluginTemplate.csproj",
+      "packagesPath": "C:\\Users\\jayce\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jayce\\RiderProjects\\PeanutGambleClassic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\snow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jayce\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -277,7 +277,7 @@
             "version": "[9.1.4, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\snow\\.dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8sZMoAd6PKdxfuk1cazS2EPV35tFzAdOf0fl19bG7I47pZ7VMBMxf+0gUSdbbyZu8Hows6dLkgrMS0z8l3gqew==",
+  "dgSpecHash": "nuYDuWz0mK7mnE7Ck/ZM7UWSV4ypGiopYEE4kIW+9CMsM2kqQ06Gadf0rjhHJlEqEMJIzSNshEY/YlifsNpSlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\snow\\Desktop\\Plugins\\PeanutGambleClassic\\PluginTemplate.csproj",
+  "projectFilePath": "C:\\Users\\jayce\\RiderProjects\\PeanutGambleClassic\\PluginTemplate.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\snow\\.nuget\\packages\\exiled\\7.0.0-rc.2-1\\exiled.7.0.0-rc.2-1.nupkg.sha512",
-    "C:\\Users\\snow\\.nuget\\packages\\lib.harmony\\2.0.4\\lib.harmony.2.0.4.nupkg.sha512",
-    "C:\\Users\\snow\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
-    "C:\\Users\\snow\\.nuget\\packages\\yamldotnet\\9.1.4\\yamldotnet.9.1.4.nupkg.sha512"
+    "C:\\Users\\jayce\\.nuget\\packages\\exiled\\7.0.0-rc.2-1\\exiled.7.0.0-rc.2-1.nupkg.sha512",
+    "C:\\Users\\jayce\\.nuget\\packages\\lib.harmony\\2.0.4\\lib.harmony.2.0.4.nupkg.sha512",
+    "C:\\Users\\jayce\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\jayce\\.nuget\\packages\\yamldotnet\\9.1.4\\yamldotnet.9.1.4.nupkg.sha512"
   ],
   "logs": []
 }
